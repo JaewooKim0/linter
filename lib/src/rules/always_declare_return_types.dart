@@ -40,7 +40,7 @@ class _Foo {
   int _foo() => 42;
 }
 
-typedef bool predicate(Object o);
+typedef predecate = bool Function(Object o);
 ```
 
 ''';
